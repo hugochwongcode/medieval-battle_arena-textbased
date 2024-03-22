@@ -1,4 +1,4 @@
-## medieval-battle_arena-textbased
+## Medieval battle arena game
 
 This Python script simulates a text-based battle arena game where players can choose a character and engage in battles against randomly generated enemies. Below is an overview of the game and instructions on how to run it. 
 
